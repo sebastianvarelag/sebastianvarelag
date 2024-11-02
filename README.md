@@ -75,5 +75,4 @@
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianvarelag&theme=holi&show_icons=true&locale=en"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianvarelag&theme=holi&layout=compact&count_private=true%22"/>
 </p>
