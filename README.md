@@ -74,5 +74,5 @@
 <h2>GitHub</h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianvarelag&theme=holi&show_icons=true&locale=en"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianvarelag&theme=holi&show_icons=true&hide_border=true&locale=en"/>
 </p>
