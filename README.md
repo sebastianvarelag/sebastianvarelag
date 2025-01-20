@@ -29,15 +29,13 @@
     <a href="https://www.w3schools.com/js/">
     <img src="https://skillicons.dev/icons?i=javascript" />
   </a>
-    <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </a>
     <a href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
     <a href="https://nextjs.org/">
     <img src="https://skillicons.dev/icons?i=next" />
   </a>
+    <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
 <h3> — Backend</h3>
