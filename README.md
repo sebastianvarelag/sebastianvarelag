@@ -32,6 +32,9 @@
     <a href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
+    <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=typescript" />
+  </a>
     <a href="https://nextjs.org/">
     <img src="https://skillicons.dev/icons?i=next" />
   </a>
@@ -44,8 +47,6 @@
   <a href="https://nodejs.org/en">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-    <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=typescript" />
   </a>
     <a href=https://expressjs.com/">
     <img src="https://skillicons.dev/icons?i=express" />
